@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/j4ir__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j4ir__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jair ibañez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jair ibañez" height="30" width="40" /></a>
+<a href="https://mx.linkedin.com/in/jair-iba%C3%B1ez-b7a2aa28a?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jair ibañez" height="30" width="40" /></a>
 <a href="https://instagram.com/jair_ibaparr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jair_ibaparr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arjaibanezpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjaibanezpa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjaibanezpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjaibanezpa" height="30" width="40" /></a>
