@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jair Ibañez</h1>
-<h3 align="center">21 years old Computer Engineering Student</h3>
-
-- 🔭 I’m currently working on [RoboKit_IDE compiler](https://github.com/dev-aj001/RoboKit_IDE)
+<h3 align="center">Computer Systems Engineering Student</h3>
 
 - 📫 How to reach me **jairibaparr@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mx.linkedin.com/in/jair-iba%C3%B1ez-b7a2aa28a?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jair ibañez" height="30" width="40" /></a>
+<a href="https://mx.linkedin.com/in/jair-ibanez-parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jair ibañez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arjaibanezpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjaibanezpa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjaibanezpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjaibanezpa" height="30" width="40" /></a>
 <a href="https://discord.gg/jair_ib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jair_ib" height="30" width="40" /></a>
